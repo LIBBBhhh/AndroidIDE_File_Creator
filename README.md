@@ -93,6 +93,8 @@ And since it was previously said which directory you set to create there and a f
 
 
 
+![image](https://github.com/LIBBBhhh/AndroidIDE_File_Creator/assets/131472646/9f30e9da-05e5-44e3-9faa-5015884d1a11)
 
-
+# ps: 
+yes, I know it doesn’t look like it, but Android has damn few tools for such a project, let’s say there’s no username
 
