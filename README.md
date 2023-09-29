@@ -36,11 +36,11 @@ Afterwards you need to install the repo in home
 
 ```
 cd $Home
-git clone htpps/link/to/git
+git clone https://github.com/LIBBBhhh/AndroidIDE_File_Creator.git
 ```
 After this you need to run the script use Cd To move to the folder that Git downloaded
 ```
-cd /example_git_clone/
+cd /AndroidIDE_File_Creator
 ```
 Use source or sh to run the script like this 
 
@@ -48,13 +48,13 @@ Use source or sh to run the script like this
 
 Source
 ```
-source ex.sh
+source CreatorV2.sh
 ```
 
 
 Sh
 ```
-sh ex.sh
+sh CreatorV2.sh
 ```
 # script part
 
