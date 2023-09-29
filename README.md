@@ -84,6 +84,7 @@ Next we have a choice of file extension, in fact you have a choice of cpp or h, 
 
 everyone has their own name, right? So then the script will ask you to set a name for the file, which you must of course do; you can set any name without spaces. Without spaces! Or the script will not understand what and where and will not create anything in the current directory.
 
+![image](https://github.com/LIBBBhhh/AndroidIDE_File_Creator/assets/131472646/cb8d75d3-9d11-4f29-83e4-c21c4dcfea09)
 
 
 
