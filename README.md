@@ -87,6 +87,12 @@ everyone has their own name, right? So then the script will ask you to set a nam
 ![image](https://github.com/LIBBBhhh/AndroidIDE_File_Creator/assets/131472646/cb8d75d3-9d11-4f29-83e4-c21c4dcfea09)
 
 
+### OutPut
+
+And since it was previously said which directory you set to create there and a file like .h will be generated, so let's see what beauty there is
+
+
+
 
 
 
