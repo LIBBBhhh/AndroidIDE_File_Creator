@@ -38,6 +38,10 @@ Afterwards you need to install the repo in home
 cd $Home
 git clone https://github.com/LIBBBhhh/AndroidIDE_File_Creator.git
 ```
+(for androidIDE no need to use home)
+
+
+
 After this you need to run the script use Cd To move to the folder that Git downloaded
 ```
 cd AndroidIDE_File_Creator
