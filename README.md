@@ -62,7 +62,7 @@ what about the script part, yes, now I’ll show you what and how
 
 
 
-
+### Directory Change 
 
 
 the first thing you will encounter is selecting a folder (directory). The script will basically explain that if you press enter, the files will be saved in the current directory. To avoid this, specify the directory, but there should be no spaces or other symbols, but the script will give an error.
@@ -70,5 +70,9 @@ the first thing you will encounter is selecting a folder (directory). The script
 ![image](https://github.com/LIBBBhhh/AndroidIDE_File_Creator/assets/131472646/9d02c2c7-b162-416b-b67e-b0184e10b843)
 
 
+
+### h or cpp?
+
+Next we have a choice of file extension, in fact you have a choice of cpp or h, to choose one just write “h” in the line without dots and other things, if you want cpp “cpp” without dots and other things
 
 
