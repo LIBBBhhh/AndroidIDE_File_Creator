@@ -40,7 +40,7 @@ git clone https://github.com/LIBBBhhh/AndroidIDE_File_Creator.git
 ```
 After this you need to run the script use Cd To move to the folder that Git downloaded
 ```
-cd /AndroidIDE_File_Creator
+cd AndroidIDE_File_Creator
 ```
 Use source or sh to run the script like this 
 
