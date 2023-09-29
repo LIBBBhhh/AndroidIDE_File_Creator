@@ -56,7 +56,7 @@ Sh
 ```
 sh ex.sh
 ```
-### script part
+# script part
 
 what about the script part, yes, now I’ll show you what and how
 
@@ -75,4 +75,5 @@ the first thing you will encounter is selecting a folder (directory). The script
 
 Next we have a choice of file extension, in fact you have a choice of cpp or h, to choose one just write “h” in the line without dots and other things, if you want cpp “cpp” without dots and other things
 
+![image](https://github.com/LIBBBhhh/AndroidIDE_File_Creator/assets/131472646/bd5f456b-a010-4a5d-a10d-e0bea465cbb6)
 
