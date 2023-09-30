@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 echo
 echo
 echo -e "\e[31mTHAT BETA\e[0m"
