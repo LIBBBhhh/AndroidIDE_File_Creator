@@ -1,5 +1,6 @@
 #!/bin/bash
 clear
+cal
 echo
 echo
 echo -e "\e[31mTHAT BETA\e[0m"
